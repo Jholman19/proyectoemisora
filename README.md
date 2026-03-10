@@ -1,2 +1,3 @@
 # proyectoemisora
-Proyecto de una aplicacion para oir la emisora independiente
+
+Proyecto de una aplicacion Flutter para escuchar la emisora independiente.
